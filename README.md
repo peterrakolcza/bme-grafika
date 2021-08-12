@@ -11,7 +11,7 @@ Az egyes csomópontok a hiperbolikus sík körei, amelyek a csomópontot azonos�
 
 ### 2 pont
 
-![Elso](elso.png)
+![Elso](docs/elso.png)
 
 ## Második feladat
 
@@ -19,7 +19,7 @@ Készítsen sugárkövető programot, amely egy √3 m sugarú gömbbe írható 
 
 ### 3 pont
 
-![Masodik](masodik.png)
+![Masodik](docs/masodik.png)
 
 ## Harmadik feladat
 
@@ -27,4 +27,4 @@ Gravitációt demonstráló gumilepedő szimulátor. A lapos tórusz topológiá
 
 ### 3 pont
 
-![Harmadik](harmadik.png)
+![Harmadik](docs/harmadik.png)
